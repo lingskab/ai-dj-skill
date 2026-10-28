@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI DJ"
+  short_description: "根据屏幕情境与音乐偏好先设计 Set 骨架，再延续或插入 Apple Music 原生队列"
+  default_prompt: "使用 $ai-dj，根据当前工作情境设计45分钟的 Set，并在播放中判断延续编排或插入歌曲。"
